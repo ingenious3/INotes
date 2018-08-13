@@ -3,7 +3,7 @@
     <color name="background">#E5E5E5</color>
     <color name="tile_background">#FFF</color>
     <color name="tile_text">#000</color>
-    
+    <color name="notelist_background">#f0abf4a8</color>
     <color name="selected">#33B5E5</color>
     <color name="transparent">#00000000</color>
 </resources>

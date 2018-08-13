@@ -19,6 +19,7 @@
             android:background="@drawable/timetable_item_border"
             android:ems="10"
             android:gravity="top"
+            android:autoLink="web"
             android:inputType="textCapSentences|textMultiLine|textLongMessage" >
 
             <requestFocus />
